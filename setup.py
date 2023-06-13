@@ -7,9 +7,9 @@ classifiers =[
 ]
     
 setup(
-    name= 'basiCAL',
+    name= 'CAL-B',
     version= '0.0.1',
-    description= 'basical- A basic Calculator python package',
+    description= 'basiCALC- A basic Calculator python package',
     long_description= open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
     url='',
     author= 'Swastik Sharma',
