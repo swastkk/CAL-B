@@ -1,11 +1,12 @@
 Metadata-Version: 2.1
 Name: CAL-B
-Version: 0.0.1
-Summary: basiCALC- A basic Calculator python package
-Home-page: 
+Version: 0.0.2
+Summary: CAL-B A basic Calculator Python Package
+Home-page: https://github.com/swastkk/CAL-B
 Author: Swastik Sharma
 Author-email: swastkk@gmail.com
 License: MIT
+Project-URL: Bug Tracker, https://github.com/swastkk/CAL-B/issues
 Keywords: calculators
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

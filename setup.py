@@ -8,7 +8,7 @@ classifiers =[
     
 setup(
     name= 'CAL-B',
-    version= '0.0.1',
+    version= '0.0.2',
     description= 'CAL-B A basic Calculator Python Package',
     long_description= open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
     url='https://github.com/swastkk/CAL-B',
